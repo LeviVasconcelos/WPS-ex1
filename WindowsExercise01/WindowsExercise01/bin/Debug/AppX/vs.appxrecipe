@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IGOR-LENOVO-Y50</Machine>
+    <WindowsUser>Levi</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4427d19c-b13d-4449-8bb5-fedfcf7cf10e</PackageIdentityName>
+    <IntermediateOutputPath>C:\great\WindowsExercise01\WindowsExercise01\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9AFD73B63538237A5FEA2065C031013E2396552B21F2A893FA700E7B681AABB5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4427d19c-b13d-4449-8bb5-fedfcf7cf10e_1.0.0.0_neutral__5e61pf7041fw2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4427d19c-b13d-4449-8bb5-fedfcf7cf10e_5e61pf7041fw2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4427d19c-b13d-4449-8bb5-fedfcf7cf10e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=great</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\great\WindowsExercise01\WindowsExercise01\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-31T09:04:31.826</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\bin\Debug\AwaitableDojo.exe">
+      <PackagePath>AwaitableDojo.exe</PackagePath>
+      <Modified>2015-04-01T01:19:46.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\packages\HtmlAgilityPack.1.4.9\lib\NetCore45\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2015-03-31T08:47:36.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T09:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T09:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T09:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T09:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-09T12:08:29.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-31T10:11:06.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\bin\Debug\AwaitableDojo.xr.xml">
+      <PackagePath>AwaitableDojo.xr.xml</PackagePath>
+      <Modified>2015-03-31T08:35:10.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\great\WindowsExercise01\WindowsExercise01\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-31T09:04:31.341</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

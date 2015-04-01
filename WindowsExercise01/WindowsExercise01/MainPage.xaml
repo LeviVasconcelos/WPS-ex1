@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="AsyncAwaitDojo.MainPage"
+    x:Name="pageName"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AsyncAwaitDojo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="30">
+        <Grid x:Name="ContentGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Top" Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="URL:" FontSize="18" Grid.Column="0" Padding="0,0,20,0" VerticalAlignment="Center" />
+                <TextBox  x:Name="UrlTextBox" Text="http://www.google.com" TextWrapping="Wrap" FontSize="18" Grid.Column="1" VerticalAlignment="Center" />
+                <Button Content="Confirm" FontSize="18" Grid.Column="2" Margin="20,0,0,0" Click="ConfirmButton_Click" />
+            </Grid>
+            <ProgressBar x:Name="pBar" Grid.Row="1"  HorizontalAlignment="Center" Visibility="Collapsed" IsIndeterminate="True" Width="2000"/>
+
+            <Border BorderBrush="{ StaticResource ApplicationForegroundThemeBrush }" BorderThickness="1" Grid.Row="2" Margin="0,20,0,0">
+                <ScrollViewer>
+                    <TextBlock x:Name="BodyTextBlock" Text="HTML body..." TextWrapping="WrapWholeWords" FontSize="20" Margin="10" />
+                </ScrollViewer>
+            </Border>
+        </Grid>
+
+        <ProgressBar x:Name="ProgressBar" Visibility="Collapsed" />
+    </Grid>
+</Page>

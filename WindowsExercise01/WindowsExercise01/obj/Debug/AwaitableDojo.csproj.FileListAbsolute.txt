@@ -1,0 +1,96 @@
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\App.xbf
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\MainPage.xbf
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AsyncAwaitDojo.xr.xml
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AsyncAwaitDojo.exe
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AsyncAwaitDojo.pdb
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\resources.pri
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AppxManifest.xml
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.build.appxrecipe
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.g.i.cs
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.g.cs
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.g.i.cs
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.g.cs
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.xaml
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.xbf
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.xaml
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.xbf
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\AsyncAwaitDojo.exe
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\AsyncAwaitDojo.pdb
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\priconfig.xml
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\priconfig.xml.intermediate
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\layout.resfiles
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\layout.resfiles.intermediate
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\resources.resfiles
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\resources.resfiles.intermediate
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\pri.resfiles
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\pri.resfiles.intermediate
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\qualifiers.txt
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\great\Documents\Visual Studio 2013\Projects\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\ProjectArchitectures.txt
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\App.xbf
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\MainPage.xbf
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\resources.pri
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AppxManifest.xml
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.build.appxrecipe
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.g.i.cs
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.g.cs
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.g.i.cs
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.g.cs
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.xaml
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.xbf
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.xaml
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.xbf
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\priconfig.xml
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\priconfig.xml.intermediate
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\layout.resfiles
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\layout.resfiles.intermediate
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\resources.resfiles
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\resources.resfiles.intermediate
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\pri.resfiles
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\pri.resfiles.intermediate
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\qualifiers.txt
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\ProjectArchitectures.txt
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.xr.xml
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.exe
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.pdb
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\AwaitableDojo.exe
+C:\Users\great\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\AwaitableDojo.pdb
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\App.xbf
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\MainPage.xbf
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.xr.xml
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.exe
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.pdb
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\resources.pri
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AppxManifest.xml
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\bin\Debug\AwaitableDojo.build.appxrecipe
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.g.i.cs
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.g.cs
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.g.i.cs
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.g.cs
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.xaml
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.xaml
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\App.xbf
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MainPage.xbf
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\AwaitableDojo.exe
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\AwaitableDojo.pdb
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\priconfig.xml
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\layout.resfiles
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\resources.resfiles
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\pri.resfiles
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\qualifiers.txt
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ericson\Desktop\AsyncAwaitDojo\AsyncAwaitDojo\obj\Debug\ProjectArchitectures.txt
